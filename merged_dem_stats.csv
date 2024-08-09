@@ -1,0 +1,50 @@
+Countries,Gold,Regime type,Overall score,Electoral process and pluralism,Functioning of government,Political participation,Political culture,Civil liberties,IHDI,HDI
+Australia,20000,Full democracy,8.66,10.00,8.57,7.22,7.50,10.00,0.86,0.946
+Austria,18296,Full democracy,8.28,9.58,7.50,8.89,6.88,8.53,0.859,0.926
+Azerbaijan,235000,Authoritarian regime,2.80,0.50,2.50,3.33,5.00,2.65,0.707,0.76
+Belgium,54606,Flawed democracy,7.64,9.58,8.21,5.00,6.88,8.53,0.878,0.942
+Brazil,49000,Flawed democracy,6.68,9.58,5.36,6.11,5.00,7.35,0.577,0.76
+Bulgaria,99000,Flawed democracy,6.41,8.75,5.71,5.56,4.38,7.65,0.703,0.799
+Canada,16000,Full democracy,8.69,10.00,8.21,8.89,7.50,8.82,0.864,0.935
+Denmark,15962,Full democracy,9.28,10.00,9.29,8.33,9.38,9.41,0.898,0.952
+Ecuador,150000,Hybrid regime,5.41,8.75,5.00,5.56,1.88,5.88,0.63,0.765
+Estonia,117500,Flawed democracy,7.96,9.58,7.86,6.67,6.88,8.82,0.835,0.899
+Finland,59342,Full democracy,9.30,10.00,9.64,7.78,9.38,9.71,0.886,0.942
+Fiji,50000,Hybrid regime,5.55,6.58,5.00,5.56,5.63,5.00,0.632,0.729
+France,86670,Full democracy,8.07,9.58,7.86,7.78,6.88,8.24,0.82,0.91
+Georgia,318000,Hybrid regime,5.20,7.00,3.57,6.11,3.75,5.59,0.728,0.814
+Germany,22000,Full democracy,8.80,9.58,8.57,8.33,8.13,9.41,0.881,0.95
+United Kingdom,0,Full democracy,8.28,9.58,7.50,8.33,6.88,9.12,0.865,0.94
+Greece,100000,Full democracy,8.14,10.00,7.14,7.22,7.50,8.82,0.801,0.893
+Hong Kong,769558,Hybrid regime,5.24,2.75,3.64,5.00,6.88,7.94,0.84,0.956
+Hungary,150000,Flawed democracy,6.72,8.75,6.79,4.44,6.88,6.76,0.8,0.851
+Indonesia,346000,Flawed democracy,6.53,7.92,7.86,7.22,4.38,5.29,0.588,0.713
+Iran,295000,Authoritarian regime,1.96,0.00,2.50,3.33,2.50,1.47,0.584,0.78
+Israel,263000,Flawed democracy,7.80,9.58,7.50,9.44,6.88,5.59,0.808,0.915
+Italy,213000,Flawed democracy,7.69,9.58,6.79,7.22,7.50,7.35,0.802,0.906
+Japan,45000,Full democracy,8.40,9.17,8.93,6.67,8.13,9.12,0.844,0.92
+Kazakhstan,250000,Authoritarian regime,3.08,0.50,3.21,5.00,3.75,2.94,0.734,0.802
+Kosovo,118683,,,,,,,,,
+Liechtenstein,27602,,,,,,,,,
+Lithuania,183005,Flawed democracy,7.31,9.58,6.43,6.11,5.63,8.82,0.795,0.879
+Malaysia,236000,Flawed democracy,7.29,9.58,7.50,7.22,6.25,5.88,0.692,0.807
+Mexico,169212,Hybrid regime,5.14,6.92,4.64,6.67,1.88,5.59,0.641,0.781
+Morocco,225067,Hybrid regime,5.02,5.25,4.64,5.56,5.63,4.12,0.508,0.698
+Netherlands,32614,Full democracy,9.00,9.58,8.93,8.33,8.75,9.41,0.885,0.946
+New Zealand,36118,Full democracy,9.61,10.00,9.29,10.00,8.75,10.00,0.856,0.939
+Norway,0,Full democracy,9.81,10.00,9.64,10.00,10.00,9.41,0.903,0.966
+Philippines,200000,Flawed democracy,6.66,9.17,4.64,7.78,4.38,7.35,0.59,0.71
+Russia,61000,Authoritarian regime,2.22,0.92,2.14,2.22,3.75,2.06,0.747,0.821
+Serbia,71210,Flawed democracy,6.33,7.83,6.07,6.67,3.75,7.35,0.74,0.805
+Singapore,737000,Flawed democracy,6.18,5.33,7.14,4.44,7.50,6.47,0.825,0.949
+Slovakia,59342,Flawed democracy,7.05,7.42,7.14,8.33,5.00,7.35,0.808,0.855
+Slovenia,23737,Flawed democracy,7.75,9.58,7.14,7.22,6.25,8.53,0.882,0.926
+South Africa,37000,Flawed democracy,7.05,7.42,7.14,8.33,5.00,7.35,0.462,0.717
+South Korea,54767,Full democracy,8.09,9.58,8.57,7.22,6.25,8.82,0.841,0.929
+Spain,111562,Full democracy,8.07,9.58,7.50,7.22,7.50,8.53,0.796,0.911
+Sweden,0,Full democracy,9.39,9.58,9.64,8.33,10.00,9.41,0.878,0.952
+Switzerland,44171,Full democracy,9.14,9.58,9.29,8.33,9.38,9.12,0.891,0.967
+Taiwan,720000,Full democracy,8.92,10.00,9.29,7.78,8.13,9.41,,
+Thailand,365150,Flawed democracy,6.35,7.00,6.07,7.78,5.00,5.88,0.681,0.803
+Turkey,531638,Hybrid regime,4.33,3.50,5.00,6.11,5.00,2.06,0.717,0.855
+Uzbekistan,200000,Authoritarian regime,2.12,0.08,1.86,2.78,5.00,0.88,,
