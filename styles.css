@@ -23,11 +23,14 @@ body, html {
 .large {
     padding: 20px;
     box-sizing: border-box;
+    height: 500px; /* Fixed height for the container */
+    overflow-y: auto; /* Enables vertical scrolling */
 }
 
 .large iframe {
     width: 100%;
-    height: calc(70vh - 40px);
+    height: auto; /* Adjust height automatically to the content */
+    min-height: 100%; /* Ensure it covers at least the height of the container */
 }
 
 .divider {
