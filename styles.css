@@ -1,0 +1,35 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.chart {
+    margin: 10px;
+    width: 100%;
+}
+
+.large iframe {
+    width: 100%;
+    height: 400px; /* Adjust height as needed */
+}
+
+.small {
+    width: 49%; /* Adjust based on margin and total width */
+    display: inline-block;
+}
+
+.small iframe {
+    width: 100%;
+    height: 200px; /* Adjust height as needed */
+}
