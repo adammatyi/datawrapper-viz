@@ -22,12 +22,18 @@ body, html {
 
 .large {
     padding: 20px;
-    box-sizing: border-box; /* Include padding in the width and height calculations */
+    box-sizing: border-box;
 }
 
 .large iframe {
     width: 100%;
-    height: calc(70vh - 40px); /* Subtract padding from height */
+    height: calc(70vh - 40px);
+}
+
+.divider {
+    height: 10px; /* Height of the horizontal divider */
+    background-color: #ccc; /* Light gray background for the divider */
+    width: 100%;
 }
 
 .chart-row {
@@ -39,10 +45,16 @@ body, html {
 .small {
     width: 50%;
     padding: 20px;
-    box-sizing: border-box; /* Include padding in the width and height calculations */
+    box-sizing: border-box;
 }
 
 .small iframe {
     width: 100%;
-    height: calc(100% - 40px); /* Subtract padding from height */
+    height: calc(100% - 40px);
+}
+
+.vertical {
+    width: 10px; /* Width of the vertical divider */
+    background-color: #ccc; /* Light gray background for the divider */
+    height: 100%;
 }
