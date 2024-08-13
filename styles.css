@@ -34,7 +34,7 @@ body, html {
 }
 
 .divider {
-    height: 10px; /* Height of the horizontal divider */
+    height: 3px; /* Height of the horizontal divider */
     background-color: #ccc; /* Light gray background for the divider */
     width: 100%;
 }
@@ -57,7 +57,7 @@ body, html {
 }
 
 .vertical {
-    width: 10px; /* Width of the vertical divider */
+    width: 3px; /* Width of the vertical divider */
     background-color: #ccc; /* Light gray background for the divider */
     height: 100%;
 }
