@@ -23,7 +23,7 @@ body, html {
 .large {
     padding: 20px;
     box-sizing: border-box;
-    height: 500px; /* Fixed height for the container */
+    height: 75%; /* Fixed height for the container */
     overflow-y: auto; /* Enables vertical scrolling */
 }
 
