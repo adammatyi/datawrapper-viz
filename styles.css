@@ -58,6 +58,6 @@ body, html {
 
 .vertical {
     width: 3px; /* Width of the vertical divider */
-    background-color: #ccc; /* Light gray background for the divider */
+    background-color: #333; /* Light gray background for the divider */
     height: 100%;
 }
